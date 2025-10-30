@@ -1,8 +1,13 @@
 {
-  "title": "Welcome to Vigor Wallet",
-  "description": "Manage your crypto easily and securely.",
-  "imageUrl": "https://raw.githubusercontent.com/Vigorwallet/banner/main/banner_bg.png",
-  "link": "https://vigorwallet.io"
-
+  "title": {
+    "en": "Welcome to Vigor Wallet",
+    "ru": "Добро пожаловать в Vigor Wallet"
+  },
+  "description": {
+    "en": "Manage your crypto easily",
+    "ru": "Управляйте криптовалютой легко"
+  },
+  "link": "https://vigorwallet.io",
+  "imageUrl": "https://raw.githubusercontent.com/Vigorwallet/banner/main/banner_bg.png"
 }
 
