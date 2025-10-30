@@ -1,13 +1,32 @@
 {
   "title": {
     "en": "Welcome to Vigor Wallet",
-    "ru": "Добро пожаловать в Vigor Wallet"
+    "ar": "مرحبًا بك في Vigor Wallet",
+    "de": "Willkommen bei Vigor Wallet",
+    "es": "Bienvenido a Vigor Wallet",
+    "fa": "به Vigor Wallet خوش آمدید",
+    "fr": "Bienvenue sur Vigor Wallet",
+    "ko": "Vigor Wallet에 오신 것을 환영합니다",
+    "pt": "Bem-vindo ao Vigor Wallet",
+    "pt-rBR": "Bem-vindo ao Vigor Wallet",
+    "ru": "Добро пожаловать в Vigor Wallet",
+    "tr": "Vigor Wallet'e hoş geldiniz",
+    "zh": "欢迎使用 Vigor 钱包"
   },
   "description": {
     "en": "Manage your crypto easily",
-    "ru": "Управляйте криптовалютой легко"
+    "ar": "قم بإدارة العملات الرقمية الخاصة بك بسهولة",
+    "de": "Verwalten Sie Ihre Kryptowährungen einfach",
+    "es": "Gestiona tus criptomonedas fácilmente",
+    "fa": "مدیریت آسان ارزهای دیجیتال شما",
+    "fr": "Gérez facilement vos cryptos",
+    "ko": "암호화폐를 쉽게 관리하세요",
+    "pt": "Gerencie suas criptomoedas facilmente",
+    "pt-rBR": "Gerencie suas criptomoedas facilmente",
+    "ru": "Управляйте криптовалютой легко",
+    "tr": "Kripto paranızı kolayca yönetin",
+    "zh": "轻松管理您的加密货币"
   },
   "link": "https://vigorwallet.io",
   "imageUrl": "https://raw.githubusercontent.com/Vigorwallet/banner/main/banner_bg.png"
 }
-
